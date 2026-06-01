@@ -28,6 +28,8 @@ export function Footer() {
         <div className="grid grid-cols-1 sm:grid-cols-3 gap-10 lg:gap-16">
 
           {/* Left — Logo lockup */}
+          {/* Left — Logo lockup */}
+          {/* Left — Logo lockup */}
           <div>
             <Link href="/" className="flex flex-col leading-none mb-4 group">
               <span className="font-heading font-800 text-base md:text-lg tracking-[0.08em] text-white group-hover:text-cream-300 transition-colors duration-300">
